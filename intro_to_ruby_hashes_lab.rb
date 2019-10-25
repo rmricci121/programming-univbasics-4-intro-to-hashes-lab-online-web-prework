@@ -27,9 +27,8 @@ end
 def read_from_hash(hash, key)
   # return the correct value using the hash and key parameters
     superheros = {spiderman: "Peter Parker", captainamerica: "Steve Rogers"}
-    puts superheros[:spiderman]
-    
-nil
+    puts superheros[spiderman:]
+  nil
 end
 
 
