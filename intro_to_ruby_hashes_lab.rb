@@ -27,8 +27,7 @@ end
 
 def read_from_hash(hash, key)
   # return the correct value using the hash and key parameters
-    {spiderman => "Peter Parker", captainamerica => "Steve Rogers"}
-    [captainamerica]
+    hash[key]
   
 end
 
